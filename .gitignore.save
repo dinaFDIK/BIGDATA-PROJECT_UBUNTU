@@ -15,7 +15,7 @@ stream_data/
 data/raw/
 # Kita abaikan data mentah yang besar, 
 # tapi pastikan data/clean/ tetap ter-upload jika ukurannya kecil.venv/
-logs/
+log
 data/
 stream_data/
 __pycache__/
